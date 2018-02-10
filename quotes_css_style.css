@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  display: flex;
+  align-items: center;
+}
+body {
+  background-image: url(https://i.pinimg.com/originals/e4/e5/fb/e4e5fba7f1072cdb9dab7c2beff64d5b.jpg);
+  background-size: cover;
+}
+a {
+  color: grey;
+}
+a:hover {
+  color: lightgrey;
+}
+
+button {
+  position: relative;
+  left: 20px;
+}
+
+i {
+  position: relative;
+  top: 8px;
+  left: 20px;
+}
+.jumbotron {
+  opacity: 0.9;
+}
+#author {
+  font-size: 1rem;
+  font-style: italic;
+}
+
+#quote {
+  font-size: 1.3rem;
+}
